@@ -1,0 +1,8 @@
+---
+title: "Simpson's Court Essay"
+author: "Martin Gleason, MS"
+date: "4/18/2019"
+output: html_document
+---
+
+source <- "https://www.kaggle.com/usdpic/execution-database/version/1#database.csv"
